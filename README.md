@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: I have no idea what I'm doing
+
 <!--
 **CitizenFry01/CitizenFry01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
